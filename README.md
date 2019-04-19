@@ -1,2 +1,0 @@
-# VueTutoVideosGraphicArt_AnimationsTransitions_Ch10
-Created with CodeSandbox
